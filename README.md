@@ -23,7 +23,4 @@ Acesse: https://postofinder.onrender.com/
 - **Tailwind CSS** — estilização rápida e eficiente
 - **OpenStreetMap** — para mapas e rotas
 
-## 🔗 Link do Projeto
-
-🔗 **Acesse aqui:** [PostoFinder - Website](https://rafaelglacerda.github.io/PostoFinder)
 
