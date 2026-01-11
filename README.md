@@ -27,11 +27,3 @@ Acesse: https://postofinder.onrender.com/
 
 🔗 **Acesse aqui:** [PostoFinder - Website](https://rafaelglacerda.github.io/PostoFinder)
 
-## 📦 Como rodar localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/RafaelGLacerda/PostoFinder.git
-   cd PostoFinder
-   npm install --force && npm run build
-   npm start
